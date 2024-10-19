@@ -1,6 +1,6 @@
 package forVehicles;
 
-import lombok.Getter;
+import lombok.*;
 
 import java.time.LocalDate;
 
