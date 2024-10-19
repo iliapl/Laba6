@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="88a6a856-89fb-4d2f-9ebf-042fad0786af" name="Changes" comment="SaveFromLab5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/forVehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forVehicles/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +51,8 @@
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/MyProjects/Laba6/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -79,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728390871344</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SaveFromLab5">
+      <option name="closed" value="true" />
+      <created>1729336224723</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729336224723</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
