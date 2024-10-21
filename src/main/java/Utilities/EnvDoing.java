@@ -1,7 +1,7 @@
 package Utilities;
 
-public class EnvDoing {
-    public String getPATHcollection() {
-                return ("D:\\MyProjects\\lab5.version3\\file.txt");
+public interface EnvDoing {
+    static String getPATHcollection() {
+        return ("/Users/ahahac_be3_xboctuka/IdeaProjects/lab5.versionHELP/collection.xml");
     }
 }
