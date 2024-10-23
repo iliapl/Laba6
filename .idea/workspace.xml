@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88a6a856-89fb-4d2f-9ebf-042fad0786af" name="Changes" comment="LombockAccept">
+    <list default="true" id="88a6a856-89fb-4d2f-9ebf-042fad0786af" name="Changes" comment="pipin">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Server/Connector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Server/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,13 +113,22 @@
       <option name="project" value="LOCAL" />
       <updated>1729513675273</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="pipin">
+      <option name="closed" value="true" />
+      <created>1729514370906</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729514370906</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SaveFromLab5" />
     <MESSAGE value="LombockAccept" />
-    <option name="LAST_COMMIT_MESSAGE" value="LombockAccept" />
+    <MESSAGE value="pipin" />
+    <option name="LAST_COMMIT_MESSAGE" value="pipin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
