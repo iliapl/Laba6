@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88a6a856-89fb-4d2f-9ebf-042fad0786af" name="Changes" comment="pipin">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Server/Connector.java" afterDir="false" />
+    <list default="true" id="88a6a856-89fb-4d2f-9ebf-042fad0786af" name="Changes" comment="StartWorking">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Server/AnswerToClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Server/ReadCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Server/ReadingRequest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Server/Connector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Server/Connector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Server/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,21 +54,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Client.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/iliap/.m2/repository/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar",
-    "onboarding.tips.debug.path": "D:/MyProjects/Laba6/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/iliap/.m2/repository/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/MyProjects/Laba6/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\MyProjects\Laba6\src\main\java" />
@@ -121,14 +123,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729514370906</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="StartWorking">
+      <option name="closed" value="true" />
+      <created>1729679706203</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729679706203</updated>
+    </task>
+    <task id="LOCAL-00007" summary="StartWorking">
+      <option name="closed" value="true" />
+      <created>1729679735372</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729679735372</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SaveFromLab5" />
     <MESSAGE value="LombockAccept" />
     <MESSAGE value="pipin" />
-    <option name="LAST_COMMIT_MESSAGE" value="pipin" />
+    <MESSAGE value="StartWorking" />
+    <option name="LAST_COMMIT_MESSAGE" value="StartWorking" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
